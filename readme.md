@@ -12,3 +12,6 @@ test a software system that allows travel agencies to maintain their travel pack
     1. A standard passenger has a balance. And each time a standard passenger signs up for an activity the cost is deducted from their balance. They cannot sign up for an activity if they do not have sufficient balance.
     2. A gold passenger has a balance. Each time a gold passenger signs up for an activity, a 10% discount is applied on the cost of the activity and the discounted amount is deducted from their balance. They cannot sign up for an activity if they do not have sufficient balance.
     3. A premium passenger can sign up for activities for free.
+
+![Diagram 1](high-level-diagram.png)
+![Diagram 1](high-level-diagram.png)
