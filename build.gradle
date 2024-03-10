@@ -1,0 +1,44 @@
+// Define the project
+group 'com.example'
+version '1.0'
+
+// Apply the Java plugin
+apply plugin: 'java'
+
+// Define the repositories to resolve dependencies from
+repositories {
+    mavenCentral()
+}
+
+// Define dependencies
+dependencies {
+    // JUnit for testing
+    testImplementation 'junit:junit:4.13.2'
+}
+
+// Define the test task
+test {
+    // Specify test classes directory
+    testClassesDirs = sourceSets.test.output.classesDirs
+
+    // Specify the results directory
+    reports.junitXml.destination = file("$buildDir/test-results")
+}
+
+// Define the main source set
+sourceSets {
+    main {
+        java {
+            srcDirs 'src/main/java'
+        }
+    }
+}
+
+// Define the test source set
+sourceSets {
+    test {
+        java {
+            srcDirs 'src/test/java'
+        }
+    }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TravelAppTest.DestinationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-03-10T17:00:17" hostname="DESKTOP-MAN2DUH" time="0.005">
+  <properties/>
+  <testcase name="testAddActivity_NullActivity" classname="TravelAppTest.DestinationTest" time="0.001"/>
+  <testcase name="testGetName" classname="TravelAppTest.DestinationTest" time="0.0"/>
+  <testcase name="testGetActivities_Empty" classname="TravelAppTest.DestinationTest" time="0.0"/>
+  <testcase name="testAddActivity" classname="TravelAppTest.DestinationTest" time="0.002"/>
+  <testcase name="testGetActivities_NonEmpty" classname="TravelAppTest.DestinationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

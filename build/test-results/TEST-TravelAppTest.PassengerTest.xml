@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TravelAppTest.PassengerTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-03-10T17:00:17" hostname="DESKTOP-MAN2DUH" time="0.011">
+  <properties/>
+  <testcase name="testAddActivity_ActivityLimitReached" classname="TravelAppTest.PassengerTest" time="0.006"/>
+  <testcase name="testAddActivity_NullActivity" classname="TravelAppTest.PassengerTest" time="0.0"/>
+  <testcase name="testGetName" classname="TravelAppTest.PassengerTest" time="0.001"/>
+  <testcase name="testGetType" classname="TravelAppTest.PassengerTest" time="0.0"/>
+  <testcase name="testGetBalance" classname="TravelAppTest.PassengerTest" time="0.0"/>
+  <testcase name="testAddActivity_DuplicateActivity" classname="TravelAppTest.PassengerTest" time="0.0"/>
+  <testcase name="testAddActivity" classname="TravelAppTest.PassengerTest" time="0.0"/>
+  <testcase name="testGetPassengerNumber" classname="TravelAppTest.PassengerTest" time="0.0"/>
+  <testcase name="testSetBalance" classname="TravelAppTest.PassengerTest" time="0.0"/>
+  <testcase name="testSetBalance_Negative" classname="TravelAppTest.PassengerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

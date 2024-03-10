@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TravelAppTest.TravelPackageTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-03-10T17:00:17" hostname="DESKTOP-MAN2DUH" time="0.024">
+  <properties/>
+  <testcase name="testAddDestination" classname="TravelAppTest.TravelPackageTest" time="0.01"/>
+  <testcase name="testGetDestinations_Empty" classname="TravelAppTest.TravelPackageTest" time="0.001"/>
+  <testcase name="testGetName" classname="TravelAppTest.TravelPackageTest" time="0.0"/>
+  <testcase name="testAddPassenger" classname="TravelAppTest.TravelPackageTest" time="0.005"/>
+  <testcase name="testPrintPassengerDetails" classname="TravelAppTest.TravelPackageTest" time="0.001"/>
+  <testcase name="testGetPassengers_Empty" classname="TravelAppTest.TravelPackageTest" time="0.001"/>
+  <testcase name="testGetPassengers_NonEmpty" classname="TravelAppTest.TravelPackageTest" time="0.001"/>
+  <testcase name="testGetPassengerCapacity" classname="TravelAppTest.TravelPackageTest" time="0.0"/>
+  <testcase name="testAddDestination_NullDestination" classname="TravelAppTest.TravelPackageTest" time="0.001"/>
+  <testcase name="testAddPassenger_NullPassenger" classname="TravelAppTest.TravelPackageTest" time="0.001"/>
+  <testcase name="testGetDestinations_NonEmpty" classname="TravelAppTest.TravelPackageTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

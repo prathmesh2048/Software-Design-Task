@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TravelAppTest.ActivityTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-03-10T17:00:17" hostname="DESKTOP-MAN2DUH" time="0.009">
+  <properties/>
+  <testcase name="testDecrementAvailableSpace" classname="TravelAppTest.ActivityTest" time="0.003"/>
+  <testcase name="testGetCost" classname="TravelAppTest.ActivityTest" time="0.001"/>
+  <testcase name="testGetName" classname="TravelAppTest.ActivityTest" time="0.0"/>
+  <testcase name="testGetAvailableSpace" classname="TravelAppTest.ActivityTest" time="0.0"/>
+  <testcase name="testDecrementAvailableSpace_Negative" classname="TravelAppTest.ActivityTest" time="0.0"/>
+  <testcase name="testGetDescription" classname="TravelAppTest.ActivityTest" time="0.0"/>
+  <testcase name="testDecrementAvailableSpace_AtCapacity" classname="TravelAppTest.ActivityTest" time="0.001"/>
+  <testcase name="testGetCapacity" classname="TravelAppTest.ActivityTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
