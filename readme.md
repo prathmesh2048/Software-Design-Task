@@ -14,4 +14,4 @@ test a software system that allows travel agencies to maintain their travel pack
     3. A premium passenger can sign up for activities for free.
 
 ![Diagram 1](high-level-diagram.png)
-![Diagram 1](high-level-diagram.png)
+![Diagram 1](low-level-diagram.png)
